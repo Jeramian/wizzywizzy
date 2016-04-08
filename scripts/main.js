@@ -5,8 +5,9 @@ class Layout extends React.Component
 {
     render()
     {
+        const name ="Jeremy";
         return(
-            <h1>It Works!</h1>
+            <h1>Hello, I am {name} </h1>
         );
     }
 }
