@@ -1,1 +1,2 @@
-console.log('Hello to you too');
+var $ = require('jquery');
+$('h1').html("New text");

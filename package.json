@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Jeramian/wizzywizzy#readme",
   "dependencies": {
+    "jquery": "^2.2.3",
+    "lodash": "^4.9.0",
     "webpack": "^1.12.14"
   }
 }
