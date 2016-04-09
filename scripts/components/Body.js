@@ -1,13 +1,12 @@
 import React from "react";
-import Title from "./Header/Title";
 
-export default class Header extends React.Component
+export default class Body extends React.Component
 {
     render()
     {
         return(
             <div>
-                <Title/>
+                <p>Some test text</p>
             </div>
         );
     }
