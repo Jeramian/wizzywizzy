@@ -1,12 +1,11 @@
 import React from "react";
 
-
 export default class Layout extends React.Component
 {
     render()
     {
         return(
-            <div></div>
+            <h1>Gekko Edits</h1>
         );
     }
 }
