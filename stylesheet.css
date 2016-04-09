@@ -8,7 +8,7 @@
 }
 .navBar
 {
-    width: 1440px;
+    width: 1920px;
     height: 40px;
     background-color: black;
 }
@@ -24,4 +24,22 @@
 .navLinks li a:hover
 {
     color: lightcoral;
+}
+.header
+{
+    text-align: center;
+}
+.contentBody
+{
+    height: auto;
+    width: auto;
+}
+.contentMenu
+{
+    text-align: center;
+}
+.contentMenu ul li
+{
+    display: inline;
+    color: black;
 }
