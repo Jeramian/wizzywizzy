@@ -6,10 +6,20 @@
 {
     display: inline;
 }
+.navBar
+{
+    width: 1440px;
+    height: 40px;
+    background-color: black;
+}
+.navLinks
+{
+    line-height: 2.5;
+}
 .navLinks li a
 {  
     text-decoration: none;
-    color: black;
+    color: white;
 }
 .navLinks li a:hover
 {
