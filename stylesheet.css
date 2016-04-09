@@ -1,0 +1,17 @@
+.navigation
+{
+    float: left;
+}
+.navigation ul li
+{
+    display: inline;
+}
+.navLinks li a
+{  
+    text-decoration: none;
+    color: black;
+}
+.navLinks li a:hover
+{
+    color: lightcoral;
+}
